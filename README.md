@@ -20,5 +20,10 @@ Two APIs are used in this project. One is of `https://jsonplaceholder.typicode.c
 Both of these are implemented using React and TypeScript.
 
 ### Use of Axios
-
 Axios is used to for API hangling in both the API use.
+To install axios run the following command
+#### `npm install --save axios`
+
+### Create React - TypeScript Project
+To create a Reac - TypeScript project, run the following command: 
+#### `npx create-react-app project-name --template typescript`
